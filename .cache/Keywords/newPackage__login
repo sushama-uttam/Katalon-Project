@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "F5B62B4AE4A22814538D002D43A6201E",
+  "keywordClasses": [
+    {
+      "name": "newPackage.login",
+      "keywordMethods": [
+        {
+          "name": "execute",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

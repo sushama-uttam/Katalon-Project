@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_- Select Project -</name>
+   <tag></tag>
+   <elementGuidId>6947685a-0732-45e3-a1d0-9db4920cd0fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='createTasksPopup_content']/div/div/div/div/div/table/tbody/tr[3]/td/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.emptySelection</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>76c6e618-3200-44f8-ac77-53c1d0c8e7e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>emptySelection</value>
+      <webElementGuid>13507f25-da6a-43da-9f8e-059d54671246</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Select Project -</value>
+      <webElementGuid>72be2a7b-d914-4b09-a652-6d70727c60f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createTasksPopup_content&quot;)/div[@class=&quot;scrollableContainer&quot;]/div[@class=&quot;contentWrapper&quot;]/div[@class=&quot;innerContent&quot;]/div[@class=&quot;customerProjectSelectorPlaceholder&quot;]/div[@class=&quot;selectCustomerAndProject&quot;]/table[1]/tbody[1]/tr[@class=&quot;selectProjectRow projectSelectorRow&quot;]/td[1]/div[@class=&quot;projectSelector customerOrProjectSelector selectorWithPlaceholderContainer&quot;]/div[@class=&quot;components_combobox cpCombobox&quot;]/div[@class=&quot;comboboxButton&quot;]/div[@class=&quot;selectedItem&quot;]/div[@class=&quot;emptySelection&quot;]</value>
+      <webElementGuid>bc40947e-df6f-425d-924a-1ef87cc321a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>33c7c56a-4afa-4ddc-a7da-35487a4cedf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>emptySelection</value>
+      <webElementGuid>469e6f07-cdad-4694-9b67-c14be36a4d80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>- Select Project -</value>
+      <webElementGuid>2da8af89-0f5b-4c36-9202-c512b126fad6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createTasksPopup_content&quot;)/div[@class=&quot;scrollableContainer&quot;]/div[@class=&quot;contentWrapper&quot;]/div[@class=&quot;innerContent&quot;]/div[@class=&quot;customerProjectSelectorPlaceholder&quot;]/div[@class=&quot;selectCustomerAndProject&quot;]/table[1]/tbody[1]/tr[@class=&quot;selectProjectRow projectSelectorRow&quot;]/td[1]/div[@class=&quot;projectSelector customerOrProjectSelector selectorWithPlaceholderContainer&quot;]/div[@class=&quot;components_combobox cpCombobox&quot;]/div[@class=&quot;comboboxButton&quot;]/div[@class=&quot;selectedItem&quot;]/div[@class=&quot;emptySelection&quot;]</value>
+      <webElementGuid>d3755a4b-0e76-4e52-bace-f6cf013db1ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='createTasksPopup_content']/div/div/div/div/div/table/tbody/tr[3]/td/div/div/div/div/div</value>
+      <webElementGuid>92a64c6c-4ee2-40fa-a411-e248650b81ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer with the specified name already exists'])[1]/following::div[5]</value>
+      <webElementGuid>b8e5fd05-6296-4f10-9b94-a51e3df96a61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer name cannot be empty'])[1]/following::div[6]</value>
+      <webElementGuid>be9080ce-85bb-4b04-8575-8a9796a3693f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- New Project -'])[1]/preceding::div[6]</value>
+      <webElementGuid>95438295-8401-4032-be15-87cc957fc40c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- ALL ACTIVE PROJECTS -'])[1]/preceding::div[7]</value>
+      <webElementGuid>97887020-cdf2-4a19-a93d-50d4b4477248</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='- Select Project -']/parent::*</value>
+      <webElementGuid>4db69ba2-a719-4a47-ac22-b76e3bf5673d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[52]/div/div/div/div/div/div/table/tbody/tr[3]/td/div/div/div/div/div</value>
+      <webElementGuid>57ccaae7-185a-4115-8202-25414d6796b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '- Select Project -' or . = '- Select Project -')]</value>
+      <webElementGuid>d55b980b-1a46-4b5f-a72f-1cfbe0f387ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

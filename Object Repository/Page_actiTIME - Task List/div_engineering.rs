@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_engineering</name>
+   <tag></tag>
+   <elementGuidId>e324b684-97ad-4dc1-963f-a98f51f47cb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='createTasksPopup_content']/div/div/div/div[3]/div/div/table/tbody/tr/td[5]/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.billingTypeCell > div.typeOfWorkButton.editable > div.value.ellipsis</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>55d27a29-22ea-43c0-965f-a110a3643672</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>value ellipsis</value>
+      <webElementGuid>e39ee240-95a6-4e74-b000-79dd81573b29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>engineering</value>
+      <webElementGuid>95605493-7de4-44ea-a2dc-1dc37610786f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createTasksPopup_content&quot;)/div[@class=&quot;scrollableContainer&quot;]/div[@class=&quot;contentWrapper&quot;]/div[@class=&quot;innerContent&quot;]/div[@class=&quot;tablePlaceholder&quot;]/div[@class=&quot;taskTable&quot;]/div[@class=&quot;taskTableContainer&quot;]/table[@class=&quot;createTasksTable&quot;]/tbody[1]/tr[1]/td[@class=&quot;billingTypeCell&quot;]/div[@class=&quot;typeOfWorkButton editable&quot;]/div[@class=&quot;value ellipsis&quot;]</value>
+      <webElementGuid>516c0a09-8a82-4a9f-a992-209721cf1aa4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e1ebfa29-7ba2-4f7b-91f2-2bf142fd2881</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>value ellipsis</value>
+      <webElementGuid>c76fcae2-5b01-42f9-af3d-03d83f520d51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>engineering</value>
+      <webElementGuid>16172bac-f309-4ede-a847-aaa4bc643cad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createTasksPopup_content&quot;)/div[@class=&quot;scrollableContainer&quot;]/div[@class=&quot;contentWrapper&quot;]/div[@class=&quot;innerContent&quot;]/div[@class=&quot;tablePlaceholder&quot;]/div[@class=&quot;taskTable&quot;]/div[@class=&quot;taskTableContainer&quot;]/table[@class=&quot;createTasksTable&quot;]/tbody[1]/tr[1]/td[@class=&quot;billingTypeCell&quot;]/div[@class=&quot;typeOfWorkButton editable&quot;]/div[@class=&quot;value ellipsis&quot;]</value>
+      <webElementGuid>e2788706-0cd4-483d-b3e9-0e89497f7094</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='createTasksPopup_content']/div/div/div/div[3]/div/div/table/tbody/tr/td[5]/div[2]/div</value>
+      <webElementGuid>f816db76-ce43-4bbb-ad01-11b339b84672</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='support'])[6]/following::div[5]</value>
+      <webElementGuid>6b13cbd2-cd2b-4ea9-9d84-2d55f71ac447</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='testing'])[4]/following::div[7]</value>
+      <webElementGuid>33d7b7eb-404e-4c58-8a74-8ff09e60a13c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='set deadline'])[1]/preceding::div[4]</value>
+      <webElementGuid>691221ea-71a9-4bfc-8448-e8aaadf5f1c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NON-BILLABLE:'])[5]/preceding::div[5]</value>
+      <webElementGuid>266b21f4-055b-4b10-9aea-33ceae121512</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/div[2]/div</value>
+      <webElementGuid>5e98fa5e-9d08-4be1-bcf5-3626b3440453</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'engineering' or . = 'engineering')]</value>
+      <webElementGuid>bd3c4d0a-e2a5-4df9-8801-44c8fe05a14d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

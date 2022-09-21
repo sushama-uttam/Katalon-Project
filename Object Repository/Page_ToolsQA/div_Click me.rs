@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Click me</name>
+   <tag></tag>
+   <elementGuidId>662af9a1-0f09-4e60-8181-f695d7c6b8f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='javascriptAlertsWrapper']/div[2]/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.mt-4.row > div.col</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bb1dc13e-98da-45d1-86fc-b51f9d36c4a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col</value>
+      <webElementGuid>cd2ff328-5dbc-46f0-80a5-f2faa914afaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Click me</value>
+      <webElementGuid>3d330cdf-10c9-484b-be77-945138ca6a14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;javascriptAlertsWrapper&quot;)/div[@class=&quot;mt-4 row&quot;]/div[@class=&quot;col&quot;]</value>
+      <webElementGuid>b251e0f0-ede8-4070-8543-45273340b9a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='javascriptAlertsWrapper']/div[2]/div[2]</value>
+      <webElementGuid>24fea9e1-20cf-4c0f-8965-a4bba300ef13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On button click, alert will appear after 5 seconds'])[1]/following::div[1]</value>
+      <webElementGuid>99a3d641-08a5-4220-bd74-025b6fd0ae31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click me'])[1]/following::div[3]</value>
+      <webElementGuid>469e1834-d5f6-412b-a9ea-2fa16a5a4364</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='On button click, confirm box will appear'])[1]/preceding::div[1]</value>
+      <webElementGuid>69b99397-7627-4bfe-8662-3e7f69c0b2a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[2]/div[2]</value>
+      <webElementGuid>256aa99d-bf3b-4f11-8f8c-66cee976d81c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Click me' or . = 'Click me')]</value>
+      <webElementGuid>4eaa54f3-f063-4e85-9043-5e4be5316f21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

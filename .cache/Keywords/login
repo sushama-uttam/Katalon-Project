@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "6949C3A7742A402B7A0956AC8BFA8D8D",
+  "keywordClasses": [
+    {
+      "name": "login",
+      "keywordMethods": [
+        {
+          "name": "execute",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

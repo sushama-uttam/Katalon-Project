@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Big Bang Company</name>
+   <tag></tag>
+   <elementGuidId>88a446e6-a313-4514-93a0-e5972c2d85d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='createTasksPopup_content']/div/div/div/div/div/table/tbody/tr/td/div/div/div[2]/div/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4155e636-2699-468a-a57d-380ca869bf90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>itemRow cpItemRow </value>
+      <webElementGuid>a3495f1f-8e11-4ae3-aa7b-80069c13b733</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Big Bang Company</value>
+      <webElementGuid>5721670d-dd1e-4e75-b10d-aaa62819c6a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createTasksPopup_content&quot;)/div[@class=&quot;scrollableContainer&quot;]/div[@class=&quot;contentWrapper&quot;]/div[@class=&quot;innerContent&quot;]/div[@class=&quot;customerProjectSelectorPlaceholder&quot;]/div[@class=&quot;selectCustomerAndProject&quot;]/table[1]/tbody[1]/tr[@class=&quot;selectCustomerRow&quot;]/td[1]/div[@class=&quot;customerSelector customerOrProjectSelector selectorWithPlaceholderContainer&quot;]/div[@class=&quot;components_combobox cpCombobox&quot;]/div[@class=&quot;scrollableDropdownView&quot;]/div[@class=&quot;scrollableContainer&quot;]/div[@class=&quot;contentWrapper&quot;]/div[@class=&quot;searchItemList&quot;]/div[@class=&quot;itemRow cpItemRow&quot;]</value>
+      <webElementGuid>487bfa83-b63a-4835-ab83-aea77568c492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6b166152-8e2d-4fba-a568-b0f32f02e94b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>itemRow cpItemRow selected</value>
+      <webElementGuid>9260373b-c699-4cc5-a05c-5e99e81ea0d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Big Bang Company</value>
+      <webElementGuid>9152c367-8237-4c3e-97d3-8be4ed36a553</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createTasksPopup_content&quot;)/div[@class=&quot;scrollableContainer&quot;]/div[@class=&quot;contentWrapper&quot;]/div[@class=&quot;innerContent&quot;]/div[@class=&quot;customerProjectSelectorPlaceholder&quot;]/div[@class=&quot;selectCustomerAndProject&quot;]/table[1]/tbody[1]/tr[@class=&quot;selectCustomerRow&quot;]/td[1]/div[@class=&quot;customerSelector customerOrProjectSelector selectorWithPlaceholderContainer&quot;]/div[@class=&quot;components_combobox cpCombobox&quot;]/div[@class=&quot;scrollableDropdownView&quot;]/div[@class=&quot;scrollableContainer&quot;]/div[@class=&quot;contentWrapper&quot;]/div[@class=&quot;searchItemList&quot;]/div[@class=&quot;itemRow cpItemRow selected&quot;]</value>
+      <webElementGuid>4ea12d25-bf08-4679-b027-12fdab6b3813</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='createTasksPopup_content']/div/div/div/div/div/table/tbody/tr/td/div/div/div[2]/div/div/div/div[3]</value>
+      <webElementGuid>1bd6219c-7ea9-416b-a9d0-38cdc3bfb398</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- ALL ACTIVE CUSTOMERS -'])[1]/following::div[1]</value>
+      <webElementGuid>d0f3e99e-9c2d-4e77-a49a-099898854d80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- New Customer -'])[1]/following::div[2]</value>
+      <webElementGuid>e2fb6dff-33ec-4028-ba0a-27934de241c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Galaxy Corporation'])[7]/preceding::div[1]</value>
+      <webElementGuid>9fa9332f-d068-4e07-ada6-a16b61824ac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our company'])[10]/preceding::div[2]</value>
+      <webElementGuid>dd8e87a1-db70-4a95-9e1f-52a6828b0ef0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/div[2]/div/div/div/div[3]</value>
+      <webElementGuid>88e2dd0e-5ddd-4870-a0af-856358aaa0b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Big Bang Company' or . = 'Big Bang Company')]</value>
+      <webElementGuid>63e0d459-a04e-40bf-b2d9-902b8260c2d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

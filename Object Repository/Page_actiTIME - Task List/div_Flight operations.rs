@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Flight operations</name>
+   <tag></tag>
+   <elementGuidId>2b4ead56-8f5d-46e0-88c3-04701033521d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='createTasksPopup_content']/div/div/div/div/div/table/tbody/tr[3]/td/div/div/div[2]/div/div/div/div[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>023a9ae0-4864-4036-9cef-73b33743d86a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>itemRow cpItemRow </value>
+      <webElementGuid>082748fc-296e-4deb-86e0-68b3ea94ef7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Flight operations</value>
+      <webElementGuid>965b2b8e-17be-413f-bdaa-e65e4095e4dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createTasksPopup_content&quot;)/div[@class=&quot;scrollableContainer&quot;]/div[@class=&quot;contentWrapper&quot;]/div[@class=&quot;innerContent&quot;]/div[@class=&quot;customerProjectSelectorPlaceholder&quot;]/div[@class=&quot;selectCustomerAndProject&quot;]/table[1]/tbody[1]/tr[@class=&quot;selectProjectRow projectSelectorRow&quot;]/td[1]/div[@class=&quot;projectSelector customerOrProjectSelector selectorWithPlaceholderContainer&quot;]/div[@class=&quot;components_combobox cpCombobox&quot;]/div[@class=&quot;scrollableDropdownView&quot;]/div[@class=&quot;scrollableContainer&quot;]/div[@class=&quot;contentWrapper&quot;]/div[@class=&quot;searchItemList&quot;]/div[@class=&quot;itemRow cpItemRow&quot;]</value>
+      <webElementGuid>42980058-3c74-4c95-9c90-e68ccb2b7dc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b4a12d19-89d4-4bf2-baf1-234c6090d1b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>itemRow cpItemRow </value>
+      <webElementGuid>1f9cb439-e980-4fed-a055-0ff675f747df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Flight operations</value>
+      <webElementGuid>00f1cb74-405a-4d91-adb3-55ed0e2b8a9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createTasksPopup_content&quot;)/div[@class=&quot;scrollableContainer&quot;]/div[@class=&quot;contentWrapper&quot;]/div[@class=&quot;innerContent&quot;]/div[@class=&quot;customerProjectSelectorPlaceholder&quot;]/div[@class=&quot;selectCustomerAndProject&quot;]/table[1]/tbody[1]/tr[@class=&quot;selectProjectRow projectSelectorRow&quot;]/td[1]/div[@class=&quot;projectSelector customerOrProjectSelector selectorWithPlaceholderContainer&quot;]/div[@class=&quot;components_combobox cpCombobox&quot;]/div[@class=&quot;scrollableDropdownView&quot;]/div[@class=&quot;scrollableContainer&quot;]/div[@class=&quot;contentWrapper&quot;]/div[@class=&quot;searchItemList&quot;]/div[@class=&quot;itemRow cpItemRow&quot;]</value>
+      <webElementGuid>e96c444c-632a-4bad-b220-36b1b82582ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='createTasksPopup_content']/div/div/div/div/div/table/tbody/tr[3]/td/div/div/div[2]/div/div/div/div[4]</value>
+      <webElementGuid>0c999128-3289-4377-a71e-b41cee7d97a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- SELECTED ACTIVE PROJECTS (by project name) -'])[1]/following::div[1]</value>
+      <webElementGuid>0cf4e41f-d802-49ce-a807-ed7468361449</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='- ALL ACTIVE PROJECTS -'])[1]/following::div[2]</value>
+      <webElementGuid>6082ef56-ff47-48d8-a7c0-8b2dcfedea77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spaceship building'])[5]/preceding::div[1]</value>
+      <webElementGuid>501cc731-6c5f-47ed-98af-2ad44ac7b299</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Spaceship testing'])[4]/preceding::div[2]</value>
+      <webElementGuid>1a99aab0-442f-4b2c-b7bb-2cdbc0691924</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/div/div/div[2]/div/div/div/div[4]</value>
+      <webElementGuid>a740cdca-29d8-4716-9ea9-7b034fb28e11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Flight operations' or . = 'Flight operations')]</value>
+      <webElementGuid>3f128803-6a75-4112-9715-94d8e0e31e0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

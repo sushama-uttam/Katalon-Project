@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Big Bang Company_dropdownButton</name>
+   <tag></tag>
+   <elementGuidId>bc7ce6d7-f677-4a31-adeb-92ab1ce08d20</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='createTasksPopup_content']/div/div/div/div/div/table/tbody/tr/td/div/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.customerSelector.customerOrProjectSelector.selectorWithPlaceholderContainer > div.components_combobox.cpCombobox > div.comboboxButton > div.dropdownButton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>377046ce-7a75-48ee-8e2a-5d1ef2b374e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdownButton</value>
+      <webElementGuid>a708eeac-f553-4197-840f-596e3f9c1a72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createTasksPopup_content&quot;)/div[@class=&quot;scrollableContainer&quot;]/div[@class=&quot;contentWrapper&quot;]/div[@class=&quot;innerContent&quot;]/div[@class=&quot;customerProjectSelectorPlaceholder&quot;]/div[@class=&quot;selectCustomerAndProject&quot;]/table[1]/tbody[1]/tr[@class=&quot;selectCustomerRow&quot;]/td[1]/div[@class=&quot;customerSelector customerOrProjectSelector selectorWithPlaceholderContainer&quot;]/div[@class=&quot;components_combobox cpCombobox&quot;]/div[@class=&quot;comboboxButton&quot;]/div[@class=&quot;dropdownButton&quot;]</value>
+      <webElementGuid>4fb7cd0c-81d8-4cee-a2b9-222ddb429e82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9dbd8762-388f-4b96-9448-73074e012bf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdownButton</value>
+      <webElementGuid>76898f83-41eb-4f87-a9c3-74b5b039f76e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;createTasksPopup_content&quot;)/div[@class=&quot;scrollableContainer&quot;]/div[@class=&quot;contentWrapper&quot;]/div[@class=&quot;innerContent&quot;]/div[@class=&quot;customerProjectSelectorPlaceholder&quot;]/div[@class=&quot;selectCustomerAndProject&quot;]/table[1]/tbody[1]/tr[@class=&quot;selectCustomerRow&quot;]/td[1]/div[@class=&quot;customerSelector customerOrProjectSelector selectorWithPlaceholderContainer&quot;]/div[@class=&quot;components_combobox cpCombobox&quot;]/div[@class=&quot;comboboxButton&quot;]/div[@class=&quot;dropdownButton&quot;]</value>
+      <webElementGuid>a5d1f7a3-1acc-4192-aa3e-ae5a75e89bf5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='createTasksPopup_content']/div/div/div/div/div/table/tbody/tr/td/div/div/div/div[3]</value>
+      <webElementGuid>2055fefe-1e91-4262-b79e-99272f7fcfad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[52]/div/div/div/div/div/div/table/tbody/tr/td/div/div/div/div[3]</value>
+      <webElementGuid>1f500868-37bb-4dfc-a73c-6ad37f86389a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

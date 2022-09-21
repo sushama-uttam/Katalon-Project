@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_Select StateAndaman and Nicobar Isla_0dbc9e</name>
+   <tag></tag>
+   <elementGuidId>fa760722-adc0-44c0-bedd-025d04414e6e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#stateId</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='stateId']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>c2a6d4b5-98fe-45be-8e4c-6aac32a7a769</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>state</value>
+      <webElementGuid>05d02613-a454-4320-a3fa-157bc6f9dcf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>states</value>
+      <webElementGuid>b344e99a-cb69-4ecf-a19e-39a5c7fe23e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>stateId</value>
+      <webElementGuid>3367092c-92c2-4d10-b693-f81a6a655405</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+     Select State
+Andaman and Nicobar IslandsAndhra PradeshArunachal PradeshAssamBiharChandigarhChhattisgarhDadra and Nagar HaveliDaman and DiuDelhiGoaGujaratHaryanaHimachal PradeshJammu and KashmirJharkhandKarnatakaKenmoreKeralaLakshadweepMadhya PradeshMaharashtraManipurMeghalayaMizoramNagalandNaroraNatwarOdishaPaschim MedinipurPondicherryPunjabRajasthanSikkimTamil NaduTelanganaTripuraUttar PradeshUttarakhandVaishaliWest Bengal</value>
+      <webElementGuid>fe1e2355-e2fe-474a-bb28-44f626f77e59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;stateId&quot;)</value>
+      <webElementGuid>6ef3aa27-2ba9-4fbb-a750-399d5a7b2616</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='stateId']</value>
+      <webElementGuid>10ea9fa1-0df5-4ee8-b0e3-d456c13c2d89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tab-content1']/form/select[3]</value>
+      <webElementGuid>eadb27d6-bdb6-47fa-89e1-f309cc0ff4f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::select[3]</value>
+      <webElementGuid>0a0ab27a-6869-40bb-8821-51255851b1f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login'])[1]/preceding::select[2]</value>
+      <webElementGuid>8228fa7d-0edc-4318-b9eb-796d0593986f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select[3]</value>
+      <webElementGuid>42741819-6aa9-4f21-b23f-dcfc73ec9c45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'state' and @id = 'stateId' and (text() = '
+     Select State
+Andaman and Nicobar IslandsAndhra PradeshArunachal PradeshAssamBiharChandigarhChhattisgarhDadra and Nagar HaveliDaman and DiuDelhiGoaGujaratHaryanaHimachal PradeshJammu and KashmirJharkhandKarnatakaKenmoreKeralaLakshadweepMadhya PradeshMaharashtraManipurMeghalayaMizoramNagalandNaroraNatwarOdishaPaschim MedinipurPondicherryPunjabRajasthanSikkimTamil NaduTelanganaTripuraUttar PradeshUttarakhandVaishaliWest Bengal' or . = '
+     Select State
+Andaman and Nicobar IslandsAndhra PradeshArunachal PradeshAssamBiharChandigarhChhattisgarhDadra and Nagar HaveliDaman and DiuDelhiGoaGujaratHaryanaHimachal PradeshJammu and KashmirJharkhandKarnatakaKenmoreKeralaLakshadweepMadhya PradeshMaharashtraManipurMeghalayaMizoramNagalandNaroraNatwarOdishaPaschim MedinipurPondicherryPunjabRajasthanSikkimTamil NaduTelanganaTripuraUttar PradeshUttarakhandVaishaliWest Bengal')]</value>
+      <webElementGuid>a3c17abd-27e2-4eff-9fb0-3662acd79ccd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

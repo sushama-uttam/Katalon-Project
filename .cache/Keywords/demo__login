@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "ED106041781C0E411EA83AD5D6E5F545",
+  "keywordClasses": [
+    {
+      "name": "demo.login",
+      "keywordMethods": [
+        {
+          "name": "display",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

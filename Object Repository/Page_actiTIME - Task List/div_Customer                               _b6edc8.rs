@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Customer                               _b6edc8</name>
+   <tag></tag>
+   <elementGuidId>150cd877-66b3-4a0f-9e98-fd443c2fa3dd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='taskListBlock']/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.tasksTable.scrollToTopButtonShifted.hasSelectedCustomer.allTasksLoaded.hasSelectedProject</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>02230e87-78d7-427a-a757-2c3c0af7e235</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tasksTable scrollToTopButtonShifted hasSelectedCustomer allTasksLoaded hasSelectedProject</value>
+      <webElementGuid>fdbaea72-f2ff-40ad-987d-d3af80dee91d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>                                      Customer       ↓     ↑                     Project       ↓     ↑                     Task       ↓     ↑                                Status       ↓     ↑               All                         Type of Work       ↓     ↑                  Estimate       ↓     ↑                  Spent Time       ↓     ↑                  Deadline       ↓     ↑                  Last Tracking Date       ↓     ↑                  Creation Date       ↓     ↑                                                                                                        Flight analysis      0                  Open:    New         research          Enter hours            0:00          Nov 02, 2022Set up deadline                     N/A                  May 11, 2022                                                Flight support      0                  Completed:    Done         support          Enter hours            4:35          Set up deadline               Jul 07, 2022      N/A                  May 11, 2022                                                Lunar mission      0                  Completed:    Won't do         support          Enter hours            0:00          Set up deadline                     N/A                  May 11, 2022                                                Mars mission support      0                  Open:    Planning         support          Enter hours            0:00          Sep 30, 2022Set up deadline                     N/A                  May 11, 2022                                                NASA negotiations      0                  Open:    In Progress         management          Enter hours            37:40          Set up deadline               Aug 19, 2022      N/A                  May 11, 2022                                                Team meetings      0                  Open:    In Progress         non-billable          Enter hours            23:20          Set up deadline               Jul 04, 2022      N/A                  May 11, 2022                                  Change status                              Reopen task          OPEN TASKS        Open:    New        Open:    Planning        Open:    In Progress        Open:    Review                      COMPLETED TASKS        Completed:    Done        Completed:    Won't do                  NON-BILLABLE:    non-billable    management    research    salesBILLABLE:    engineering    manufacturing    repair: complex    repair: standard    testing    support                There are no tasks    Please try to search in the list of all Tasks  </value>
+      <webElementGuid>186c1dec-3ca5-432c-a067-0eb62e59b554</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;taskListBlock&quot;)/div[@class=&quot;tasksTable scrollToTopButtonShifted hasSelectedCustomer allTasksLoaded hasSelectedProject&quot;]</value>
+      <webElementGuid>d0f52ae9-9eb0-4e34-9bdf-dfaa1b4f7c2e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='taskListBlock']/div[2]</value>
+      <webElementGuid>9efbcc06-2383-4a9f-9029-b7aba36dc87e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View mode:'])[1]/following::div[3]</value>
+      <webElementGuid>787601ed-9d1b-41a3-9c3b-189d26135ffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Configure columns'])[1]/following::div[7]</value>
+      <webElementGuid>ebaf9f2b-84d9-4bfc-8329-49abd12ec633</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[18]/div[2]/div/div[2]</value>
+      <webElementGuid>933740f5-4421-4b7d-bbbf-c11613db703e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;                                      Customer       ↓     ↑                     Project       ↓     ↑                     Task       ↓     ↑                                Status       ↓     ↑               All                         Type of Work       ↓     ↑                  Estimate       ↓     ↑                  Spent Time       ↓     ↑                  Deadline       ↓     ↑                  Last Tracking Date       ↓     ↑                  Creation Date       ↓     ↑                                                                                                        Flight analysis      0                  Open:    New         research          Enter hours            0:00          Nov 02, 2022Set up deadline                     N/A                  May 11, 2022                                                Flight support      0                  Completed:    Done         support          Enter hours            4:35          Set up deadline               Jul 07, 2022      N/A                  May 11, 2022                                                Lunar mission      0                  Completed:    Won&quot; , &quot;'&quot; , &quot;t do         support          Enter hours            0:00          Set up deadline                     N/A                  May 11, 2022                                                Mars mission support      0                  Open:    Planning         support          Enter hours            0:00          Sep 30, 2022Set up deadline                     N/A                  May 11, 2022                                                NASA negotiations      0                  Open:    In Progress         management          Enter hours            37:40          Set up deadline               Aug 19, 2022      N/A                  May 11, 2022                                                Team meetings      0                  Open:    In Progress         non-billable          Enter hours            23:20          Set up deadline               Jul 04, 2022      N/A                  May 11, 2022                                  Change status                              Reopen task          OPEN TASKS        Open:    New        Open:    Planning        Open:    In Progress        Open:    Review                      COMPLETED TASKS        Completed:    Done        Completed:    Won&quot; , &quot;'&quot; , &quot;t do                  NON-BILLABLE:    non-billable    management    research    salesBILLABLE:    engineering    manufacturing    repair: complex    repair: standard    testing    support                There are no tasks    Please try to search in the list of all Tasks  &quot;) or . = concat(&quot;                                      Customer       ↓     ↑                     Project       ↓     ↑                     Task       ↓     ↑                                Status       ↓     ↑               All                         Type of Work       ↓     ↑                  Estimate       ↓     ↑                  Spent Time       ↓     ↑                  Deadline       ↓     ↑                  Last Tracking Date       ↓     ↑                  Creation Date       ↓     ↑                                                                                                        Flight analysis      0                  Open:    New         research          Enter hours            0:00          Nov 02, 2022Set up deadline                     N/A                  May 11, 2022                                                Flight support      0                  Completed:    Done         support          Enter hours            4:35          Set up deadline               Jul 07, 2022      N/A                  May 11, 2022                                                Lunar mission      0                  Completed:    Won&quot; , &quot;'&quot; , &quot;t do         support          Enter hours            0:00          Set up deadline                     N/A                  May 11, 2022                                                Mars mission support      0                  Open:    Planning         support          Enter hours            0:00          Sep 30, 2022Set up deadline                     N/A                  May 11, 2022                                                NASA negotiations      0                  Open:    In Progress         management          Enter hours            37:40          Set up deadline               Aug 19, 2022      N/A                  May 11, 2022                                                Team meetings      0                  Open:    In Progress         non-billable          Enter hours            23:20          Set up deadline               Jul 04, 2022      N/A                  May 11, 2022                                  Change status                              Reopen task          OPEN TASKS        Open:    New        Open:    Planning        Open:    In Progress        Open:    Review                      COMPLETED TASKS        Completed:    Done        Completed:    Won&quot; , &quot;'&quot; , &quot;t do                  NON-BILLABLE:    non-billable    management    research    salesBILLABLE:    engineering    manufacturing    repair: complex    repair: standard    testing    support                There are no tasks    Please try to search in the list of all Tasks  &quot;))]</value>
+      <webElementGuid>fca6c97d-2d90-4137-b7c7-054f3ef1c644</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
